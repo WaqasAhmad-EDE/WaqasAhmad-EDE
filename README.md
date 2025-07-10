@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Waqas Ahmad
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Developer;5%2B+Years+of+Experience;TypeScript+%7C+Angular+%7C+Next.js;Always+learning+new+technologies" alt="Typing SVG" />
@@ -52,31 +52,31 @@ With a strong foundation in both frontend and backend technologies, I specialize
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WaqasAhmad-EDE&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WaqasAhmad-EDE&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaqasAhmad-EDE&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌟 [Project Name 1](https://github.com/yourusername/project1)
+### 🌟 [Project Name 1](https://github.com/WaqasAhmad-EDE/project1)
 **Tech Stack:** Angular, Firebase, TypeScript
 - Brief description of what this project does and its key features
 - Highlight any notable achievements or metrics
 - *[Add your project link and description here]*
 
-### 🌟 [Project Name 2](https://github.com/yourusername/project2)
+### 🌟 [Project Name 2](https://github.com/WaqasAhmad-EDE/project2)
 **Tech Stack:** Next.js, Laravel, MySQL
 - Brief description of what this project does and its key features
 - Mention any challenges overcome or innovative solutions implemented
 - *[Add your project link and description here]*
 
-### 🌟 [Project Name 3](https://github.com/yourusername/project3)
+### 🌟 [Project Name 3](https://github.com/WaqasAhmad-EDE/project3)
 **Tech Stack:** TypeScript, Firebase, Angular
 - Brief description of what this project does and its key features
 - Include any performance improvements or user impact metrics
@@ -151,9 +151,9 @@ With a strong foundation in both frontend and backend technologies, I specialize
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=WaqasAhmad-EDE&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <i>⭐️ From [yourusername](https://github.com/yourusername)</i>
+  <i>⭐️ From [WaqasAhmad-EDE](https://github.com/WaqasAhmad-EDE)</i>
 </div>
