@@ -63,53 +63,9 @@ With a strong foundation in both frontend and backend technologies, I specialize
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌟 [Project Name 1](https://github.com/WaqasAhmad-EDE/project1)
-**Tech Stack:** Angular, Firebase, TypeScript
-- Brief description of what this project does and its key features
-- Highlight any notable achievements or metrics
-- *[Add your project link and description here]*
-
-### 🌟 [Project Name 2](https://github.com/WaqasAhmad-EDE/project2)
-**Tech Stack:** Next.js, Laravel, MySQL
-- Brief description of what this project does and its key features
-- Mention any challenges overcome or innovative solutions implemented
-- *[Add your project link and description here]*
-
-### 🌟 [Project Name 3](https://github.com/WaqasAhmad-EDE/project3)
-**Tech Stack:** TypeScript, Firebase, Angular
-- Brief description of what this project does and its key features
-- Include any performance improvements or user impact metrics
-- *[Add your project link and description here]*
-
-> 💡 **Note:** *Please update the project links and descriptions with your actual projects*
-
----
-
-## 💼 Professional Experience
-
-### **Senior Software Developer** | *Company Name* | *2021 - Present*
-- Lead development of enterprise-level web applications using Angular and TypeScript
-- Architected and implemented scalable backend solutions with Laravel and Firebase
-- Collaborated with cross-functional teams to deliver high-quality software solutions
-
-### **Full-Stack Developer** | *Company Name* | *2019 - 2021*
-- Developed responsive web applications using modern JavaScript frameworks
-- Implemented RESTful APIs and integrated third-party services
-- Optimized application performance and improved user experience
-
-### **Junior Developer** | *Company Name* | *2018 - 2019*
-- Built dynamic web interfaces using HTML5, CSS3, and JavaScript
-- Contributed to database design and backend development
-- Participated in code reviews and agile development processes
-
----
-
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science**  
-*[University Name]* | *[Graduation Year]*
 
 **Relevant Coursework:**
 - Data Structures & Algorithms
