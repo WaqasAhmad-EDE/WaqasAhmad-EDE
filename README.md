@@ -18,7 +18,8 @@ With a strong foundation in both frontend and backend technologies, I specialize
 ## 🛠️ Skills & Technologies
 
 ### **AI-powered tools**
-
+https://natively.dev/
+https://www.framer.com/
 
 ### **Programming Languages**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
