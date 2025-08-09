@@ -102,6 +102,9 @@ https://www.framer.com/
 
 <div align="center">
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="waqas-ahmad-2065b6233" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/waqas-ahmad-2065b6233?trk=profile-badge">WAQAS AHMAD</a></div>
+
+              
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/waqas-ahmad-2065b6233/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqas.ede@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/WaqasAhmad-EDE)
