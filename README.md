@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Software Developer** with over **5 years of professional experience** in building scalable web applications and innovative digital solutions. My journey in software development has been driven by a genuine love for problem-solving and creating technology that makes a meaningful impact.
+I'm a passionate **Full-Stack Software Developer** with over **4 years of professional experience** in building scalable web applications and innovative digital solutions. My journey in software development has been driven by a genuine love for problem-solving and creating technology that makes a meaningful impact.
 
 With a strong foundation in both frontend and backend technologies, I specialize in crafting seamless user experiences while ensuring robust, maintainable code architecture. I thrive in collaborative environments and am always eager to learn new technologies and methodologies.
 
